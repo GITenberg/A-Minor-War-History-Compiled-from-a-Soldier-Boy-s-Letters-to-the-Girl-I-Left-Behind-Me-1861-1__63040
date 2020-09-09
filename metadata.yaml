@@ -1,5 +1,8 @@
 _repo: A-Minor-War-History-Compiled-from-a-Soldier-Boy-s-Letters-to-the-Girl-I-Left-Behind-Me-1861-1__63040
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63040-h/images/cover.jpg
 creator:
   author:
     agent_name: Haynes, Martin A. (Martin Alonzo)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52243
     wikipedia: https://en.wikipedia.org/wiki/Martin_Alonzo_Haynes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63040#A-Minor-War-History-Compiled-from-a-Soldier-Boy-s-Letters-to-the-Girl-I-Left-Behind-Me-1861-1_
 gutenberg_issued: '2020-08-25'
 gutenberg_type: Text
 identifiers:
